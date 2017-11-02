@@ -1,0 +1,6 @@
+def farenheit (tempiture):
+    tf = (( 1.8 * tempiture + 32 ))
+    print(tf)
+
+tc = input('Enter temperature in degree celcius: ')
+farenheit(tc)
